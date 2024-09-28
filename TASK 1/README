@@ -1,0 +1,4 @@
+Task is to build an Unsupervised Learning Model on a Dataset(Clustering Model).
+I chose K means Clustering algorithm as the Unsupervised Model and Iris Dataset to train and test the model 
+I checked which properties of the species formed good clusters and selected those properties
+Then , I applied K means algorithm and then checked its accuracy .
