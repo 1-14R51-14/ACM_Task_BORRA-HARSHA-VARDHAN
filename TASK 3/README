@@ -1,0 +1,5 @@
+Task is to build a Basic Deep Learning Network for Binary Classification
+I have choosen cancer classification dataset for this task .
+Our goal is to predict the type of tumor the patient has by analyzing his/her symptoms.
+I have done some preprocessing (cleaning the data)
+Then I built the  
