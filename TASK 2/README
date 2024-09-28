@@ -1,0 +1,6 @@
+Task is to build a Classifier or Regressor from Scratch and compare it with Standard Libraries.
+I have taken Iris dataset for this task
+I have taken "KNN" as the CLassifier to build from scratch and checked its accuracy
+I have used basic libraries like numpy to build it.
+Then I also built a "KNN" model using standerd libraries and checked its accuracy
+Then I compared both of their accuracies and made a conclusion
